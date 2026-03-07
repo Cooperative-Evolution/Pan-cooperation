@@ -1,4 +1,4 @@
-# Replication data and scripts for "Divergent cooperation patterns in *Pan* reflect the evolutionary role of interdependence" 
+# Replication data and scripts for "Interdependent cooperation distinguishes chimpanzees and humans from bonobos" 
 
 by Samuni, Neumann et al.
 
